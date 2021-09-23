@@ -23,8 +23,3 @@
 
 **캐리로그인** : 아이디 : carry@gmail.com / 비밀번호 : 1234
 
-## 기능구현
-*controller
-*service
-*Dao
-*maper
