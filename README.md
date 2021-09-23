@@ -5,3 +5,6 @@
 * 김명호, 김승민, 김아름, 김훈, 신은경, 황지원(팀장)
 ## 내 담당 파트
 * 웹소켓 채팅, 관리자 매출 차트그래프, 카카오로그인 api, 회원가입
+## 활용 프로그램
+*![활용프로그램](https://user-images.githubusercontent.com/84554175/134519405-4d5e0fa0-b395-4991-b9e9-b3a7a3f5cb9f.png)
+## ERD, FLOWCHART
