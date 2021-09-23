@@ -14,3 +14,17 @@
 -FLOWCHART-
 ![flowchart](https://user-images.githubusercontent.com/84554175/134519465-4cc5dbcf-5140-4330-af0b-da4ab957dd46.png)
 
+## AWS 접속 주소
+
+## 로그인 테스트 계정
+*관리자로그인*
+아이디 : admin(관리자)
+비밀번호 : 1234
+*회원로그인*
+아이디 : member@gmail.com
+비밀번호 : 1234
+*캐리로그인*
+아이디 : carry@gmail.com
+비밀번호 : 1234
+
+
