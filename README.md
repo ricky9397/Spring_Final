@@ -6,5 +6,9 @@
 ## 내 담당 파트
 * 웹소켓 채팅, 관리자 매출 차트그래프, 카카오로그인 api, 회원가입
 ## 활용 프로그램
-*![활용프로그램](https://user-images.githubusercontent.com/84554175/134519405-4d5e0fa0-b395-4991-b9e9-b3a7a3f5cb9f.png)
+![활용프로그램](https://user-images.githubusercontent.com/84554175/134519405-4d5e0fa0-b395-4991-b9e9-b3a7a3f5cb9f.png)
 ## ERD, FLOWCHART
+*ERD
+![erd](https://user-images.githubusercontent.com/84554175/134519460-bc94310c-301a-49a7-a23f-0c84bd5168ea.png)
+*FLOWCHART
+![flowchart](https://user-images.githubusercontent.com/84554175/134519465-4cc5dbcf-5140-4330-af0b-da4ab957dd46.png)
