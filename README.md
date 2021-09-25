@@ -12,6 +12,7 @@
 ![erd](https://user-images.githubusercontent.com/84554175/134519460-bc94310c-301a-49a7-a23f-0c84bd5168ea.png)
 
 ## AWS 접속 주소
+* http://15.165.237.60:8080/gym/index
 
 ## 로그인 테스트 계정
 **관리자로그인** : 아이디 : admin / 비밀번호 : 1234
