@@ -9,7 +9,7 @@
 ![활용프로그램](https://user-images.githubusercontent.com/84554175/134519405-4d5e0fa0-b395-4991-b9e9-b3a7a3f5cb9f.png)
 ## ERD
 -ERD-
-![erd](https://user-images.githubusercontent.com/84554175/134519460-bc94310c-301a-49a7-a23f-0c84bd5168ea.png)
+![KakaoTalk_20210927_113104814_01](https://user-images.githubusercontent.com/84554175/134850161-ce3dc902-d6ad-48f3-895a-ea2cc0359f6b.png)
 
 ## AWS 접속 주소
 * http://15.165.237.60:8080/gym/index
