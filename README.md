@@ -14,7 +14,7 @@
 ![KakaoTalk_20210927_113104814_01](https://user-images.githubusercontent.com/84554175/134850161-ce3dc902-d6ad-48f3-895a-ea2cc0359f6b.png)
 
 ## AWS 접속 주소
-* http://15.165.237.60:8080/gym/index
+* http://ec2-15-164-230-132.ap-northeast-2.compute.amazonaws.com:8080/gym/index
 
 ## 로그인 테스트 계정
 **관리자로그인** : 아이디 : admin / 비밀번호 : admin
